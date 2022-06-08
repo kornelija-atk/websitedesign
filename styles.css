@@ -1,0 +1,163 @@
+* {
+    font-family: "Quicksand";
+}
+
+nav { 
+    width: 100%;
+    text-align: center;
+}
+
+nav ul {
+    text-align:center; 
+    position: relative;
+}
+
+nav li {
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 5px 10px;
+    background-color: #D5BDAF;
+    font-family: 'Bebas Neue';
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:visited {
+    color: white;
+}
+
+nav a:hover {
+    color: black;
+}
+
+nav a:active {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Handlee';
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+}
+
+header {
+    background-image: url("resources/images/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    width: auto;
+}
+
+h2 {
+    border: 1px solid #D5BDAF;
+    font-family: 'Handlee';
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.colors {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#bone {
+    background-color: #D5BDAF;
+}
+
+#rice {
+    background-color: #F5EBE0;
+}
+
+#clay {
+    background-color: #E29578;
+}
+
+.blocks {
+    display: inline-block;
+    padding: 10px 100px;
+}
+
+table {
+    border: 2px solid #E29578;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    border: 2px solid #E29578;
+    border-collapse: collapse;
+}
+
+#handlee td {
+    font-family: "Handlee";
+}
+
+#quicksand-bold td {
+    font-family: "Quicksand";
+    font-weight: 600;
+}
+
+#quicksand td {
+    font-family: "Quicksand";
+    font-weight: 400;
+}
+
+#bebas td {
+    font-family: 'Bebas Neue';
+}
+
+#h1 {
+    font-family: "Handlee";
+    font-size: 30px;
+}
+
+#h2 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#p {
+    font-size: 14px;
+}
+
+#button {
+    font-family: "Bebas Neue";
+    font-size: 18px;
+}
+
+.text {
+    display: inline-block;
+    padding: 0 30px;
+}
+
+#center {
+    text-align: center;
+}
+
+.text li {
+    text-align: left;
+}
+
+footer {
+    background-color: #D5BDAF;
+    text-align: center;
+    padding: 15px ;
+    margin: 10px auto;
+    font-style: italic;
+}
