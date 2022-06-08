@@ -25,18 +25,22 @@ nav li {
 
 nav a {
     text-decoration: none;
+    font-family: 'Bebas Neue';
 }
 
 nav a:visited {
     color: white;
+    font-family: 'Bebas Neue';
 }
 
 nav a:hover {
     color: black;
+    font-family: 'Bebas Neue';
 }
 
 nav a:active {
     color: black;
+    font-family: 'Bebas Neue';
 }
 
 h1 {
