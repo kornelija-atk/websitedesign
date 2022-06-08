@@ -28,6 +28,11 @@ nav a {
     font-family: 'Bebas Neue';
 }
 
+nav a:link {
+    color: white;
+    font-family: 'Bebas Neue';
+}
+
 nav a:visited {
     color: white;
     font-family: 'Bebas Neue';
